@@ -1,0 +1,21 @@
+---
+title: 'Python - Not Just a Snake '
+author: 'Desiree '
+date: '2019-12-07'
+slug: python-not-just-a-snake
+categories: []
+tags: []
+description: ''
+---
+
+##Pyhton - The Software 
+
+![](/blog/2019-12-07-python-not-just-a-snake_files/python.png){width=75% height=75%}
+
+A few months prior to this class, a friend of mine was talking about registering for a neuroscience class that was python based and me never having had computer science experience, I had no idea what he was talking about. My first thought was python the snake... Yeah, I know... So, that was the first thing that I blurted out; "Oh, like the snake?" I am very surprised our friendship didn't end right then and there. He laughed but then explained to me that it was a computer software.  
+
+Fast forward to this semester, I have had the opportunity to play with this program some and understand what all the talk is about. But, if you ask me which side of the debate I am on, I would still say RStudio. Although, Python is still a force to be reckoned with. 
+
+
+
+

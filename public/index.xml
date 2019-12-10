@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desiree Lama</title>
+    <link>/</link>
+    <description>Recent content on Desiree Lama</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basics of Python </title>
+      <link>/blog/basics/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/basics/</guid>
+      <description>Python for Beginners At the beginning, Python is overwhelming and it still is. But it has been important to understand the fundamentals before tackling bigger concepts. By understanding the basics of Python, you will be able to explore all different kinds of coding.
+Let’s see how we can use the library called reticulate to use Python code in RStudio! Yes, it is possible to use Python codes in RStudio and vice versa.</description>
+    </item>
+    
+    <item>
+      <title>Global Sequence Alignment</title>
+      <link>/blog/global-sequence-alignment/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/global-sequence-alignment/</guid>
+      <description>Sequence Aligning Global sequence alignment was one of the last concepts that we covered in Python and it was one of my favorite. The significance of global sequence alignment is that it is mainly used to demonstrate the highly conserved regions of protein alignment. It is known that when a sequence is highly conserved then it has important evolutionary properties for the survival of said organism.
+ The NeedleMan-Wusch Algorithm This is the algorithm used in bioinformatics in order to align proteins and give a proper scoring system.</description>
+    </item>
+    
+    <item>
+      <title>Projects.Rmd</title>
+      <link>/2019/12/07/projects-rmd/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/12/07/projects-rmd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python - Not Just a Snake </title>
+      <link>/blog/python-not-just-a-snake/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/python-not-just-a-snake/</guid>
+      <description>Pyhton - The Software  A few months prior to this class, a friend of mine was talking about registering for a neuroscience class that was python based and me never having had computer science experience, I had no idea what he was talking about. My first thought was python the snake… Yeah, I know… So, that was the first thing that I blurted out; “Oh, like the snake?” I am very surprised our friendship didn’t end right then and there.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/contene/resume/</link>
+      <pubDate>Sat, 07 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/contene/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Projects Here are some of the projects I have been working on throughout the semester in Computational Biology and Bioinformatics:
+  Project 1: Exploratory Data Analysis
+  Project 2: Modeling
+  </description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis</title>
+      <link>/project1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project1/</guid>
+      <description>Project 1: Exploratory Data Analysis Desiree Lama: dl33464  Introduction The two datasets that have been used in the following data analysis involve music analyzation. The first data set is titled ‘kpopreal’ which was acquired from my prior BioStatistics project where I was testing to determine if there was a correlation between race and Kpop. The variables in the ‘kpopreal’ dataset are Groups.Artists, Genre, Race and Subject. The ‘Groups.Artists’ variable was viewing the number of Kpop groups/artists that the subject knew from a generated list of Kpop artists.</description>
+    </item>
+    
+    <item>
+      <title>Project 2 - Modeling, Testing and Predicting</title>
+      <link>/project2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/project2/</guid>
+      <description>Introduction The dataset that has been used in the following modeling project is the dataset called ‘USMortality’ that contains mortality rates from the United States by different causes and amongst sex. This dataset contains 40 observations from mortality rates across all ages from the years 2011-2013. Cause of death, sex and rural vs. urban status were recorded among each observation. The variables in this dataset are ‘Status’, ‘Sex’, ‘Cause’, ‘Rate’, and ‘SE’.</description>
+    </item>
+    
+  </channel>
+</rss>

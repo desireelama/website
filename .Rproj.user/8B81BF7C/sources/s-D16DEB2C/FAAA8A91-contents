@@ -1,0 +1,29 @@
+---
+title: 'Basics of Python '
+author: 'Desiree '
+date: '2019-12-09'
+slug: basics
+categories: []
+tags: []
+description: ''
+---
+
+##Python for Beginners
+
+At the beginning, Python is overwhelming and it still is. But it has been important to understand the fundamentals before tackling bigger concepts. By understanding the basics of Python, you will be able to explore all different kinds of coding. 
+
+Let's see how we can use the library called reticulate to use Python code in RStudio! Yes, it is possible to use Python codes in RStudio and vice versa. In our lives, there may be dispute on which is more versatile but they are friends!
+
+```{r}
+library(reticulate)
+```
+ 
+The package 'Reticulate' allows R and Python to work together! 
+
+```{r}
+hello <- "hello" #R code 
+world = "I am Desiree" #Python code 
+
+cat(hello,world)
+```
+In the code above, we can see how Python codes can be integrated in RStudio using the package 'Reticulate'. We can use both R and Python codes to get an output that incorporates both of them! I found this interesting because if one software does something the other one can't you can easily import codes to one of them. 
